@@ -22,20 +22,20 @@ terms of accuracy and computational time and it
 is significantly faster than existing models in
 terms of batch processing.
 
-##Samples
-###Input
+## Samples
+### Input
 ![input_Image](model/3309.jpg,"Input Image")
-###Output
+### Output
 ![Output_image](model/output_filename_3309.jpg,"Output Image")
 
-##Training
+## Training
 The proposed model uses BCDS300 dataset
 where dataset consists of 200 images for training
 model and 100 images for testing model. For the
 training process, the model uses mean square
 error (MSE) for error computation.
 
-###Resudal  Patch Data
+### Resudal  Patch Data
 Second, in the system, the data loss is
 significantly lesser. The size of the feature map
 does not get reduced by the time when
@@ -45,10 +45,10 @@ network consisting of only 3 layers combined
 with input and the output layer due to which it
 reduces the data loss while training.
 
-##How to Run The Code
+## How to Run The Code
 open training.ipynb file and run the code it will start the training process.
 
-##How to Use
+## How to Use
 open output.ipynb file and change the inout file name and the output file name and the check the path correctly to run the cod.
 then it will create an output image wil the name provided in the path given
 
