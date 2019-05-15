@@ -24,9 +24,9 @@ terms of batch processing.
 
 ## Samples
 ### Input
-![input_Image](model/3309.jpg,"Input Image")
+![input_Image](model/3309.jpg "Input Image")
 ### Output
-![Output_image](model/output_filename_3309.jpg,"Output Image")
+![Output_image](model/output_filename_3309.jpg "Output Image")
 
 ## Training
 The proposed model uses BCDS300 dataset
